@@ -21,7 +21,7 @@ jobs:
 
     env:
       SESSION_ID: PRABATH-MD~5eN1EYjY#DgB3_sMN_k80WPTwpyZnouVpVXGh8BKvM0NTL4AoGjg
-      GITHUB_AUTH_TOKEN: Enter Your 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
+      GITHUB_AUTH_TOKEN: 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
       BOT_NUMBER: 918345080405
 
     steps:
